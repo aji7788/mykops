@@ -19,3 +19,6 @@ exit
 ls
 apt-get install awscli
 exit
+cat visudo
+sudo visudo
+exit

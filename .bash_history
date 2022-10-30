@@ -22,3 +22,35 @@ exit
 cat visudo
 sudo visudo
 exit
+vi Dockerfile
+vi form.html
+vi main.py
+vi pod.yaml
+vi requirements.txt
+git init
+mkdir kopsproject
+ls
+git status
+git add .
+git commit -m "first commit"
+git branch
+git remote add mani https://github.com/aji7788/mykops.git
+git push mani master
+cd /var/lib/jenkins
+ls
+cd workspace
+ls
+cd mykops
+ls
+cd
+apt-get install docker
+service docker status
+service start docker
+service docker start
+service docker status
+docker init
+apt install docker.io
+service docker status
+cd /etc/sudoers.d/
+ls
+sudo visudo

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1667128666,,"wq!"
+|2,0,1667129696,,"wq!"
 :q
 |2,0,1667128055,,"q"
 
@@ -27,36 +27,56 @@
 # Registers:
 
 # File marks:
-'0  31  32  ~/pod.yaml
-|4,48,31,32,1667128666,"~/pod.yaml"
-'1  30  20  ~/pod.yaml
-|4,49,30,20,1667128090,"~/pod.yaml"
+'0  9  13  ~/form.html
+|4,48,9,13,1667129696,"~/form.html"
+'1  31  32  ~/pod.yaml
+|4,49,31,32,1667128666,"~/pod.yaml"
 '2  30  20  ~/pod.yaml
 |4,50,30,20,1667128090,"~/pod.yaml"
-'3  1  0  ~/pod.yam
-|4,51,1,0,1667128055,"~/pod.yam"
-'4  30  26  ~/pod.yaml
-|4,52,30,26,1667126785,"~/pod.yaml"
+'3  30  20  ~/pod.yaml
+|4,51,30,20,1667128090,"~/pod.yaml"
+'4  1  0  ~/pod.yam
+|4,52,1,0,1667128055,"~/pod.yam"
 '5  30  26  ~/pod.yaml
 |4,53,30,26,1667126785,"~/pod.yaml"
-'6  19  11  /tmp/kops-edit-766594641yaml
-|4,54,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
-'7  35  0  /tmp/kops-edit-3501639348yaml
-|4,55,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
-'8  71  15  ~/requirements.txt
-|4,56,71,15,1667112685,"~/requirements.txt"
-'9  31  32  ~/pod.yaml
-|4,57,31,32,1667112632,"~/pod.yaml"
+'6  30  26  ~/pod.yaml
+|4,54,30,26,1667126785,"~/pod.yaml"
+'7  19  11  /tmp/kops-edit-766594641yaml
+|4,55,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+'8  35  0  /tmp/kops-edit-3501639348yaml
+|4,56,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
+'9  71  15  ~/requirements.txt
+|4,57,71,15,1667112685,"~/requirements.txt"
 
 # Jumplist (newest first):
+-'  9  13  ~/form.html
+|4,39,9,13,1667129696,"~/form.html"
+-'  12  6  ~/form.html
+|4,39,12,6,1667129620,"~/form.html"
 -'  31  32  ~/pod.yaml
 |4,39,31,32,1667128666,"~/pod.yaml"
+-'  31  32  ~/pod.yaml
+|4,39,31,32,1667128666,"~/pod.yaml"
+-'  1  0  ~/pod.yaml
+|4,39,1,0,1667128639,"~/pod.yaml"
 -'  1  0  ~/pod.yaml
 |4,39,1,0,1667128639,"~/pod.yaml"
 -'  30  20  ~/pod.yaml
 |4,39,30,20,1667128090,"~/pod.yaml"
 -'  30  20  ~/pod.yaml
 |4,39,30,20,1667128090,"~/pod.yaml"
+-'  30  20  ~/pod.yaml
+|4,39,30,20,1667128090,"~/pod.yaml"
+-'  30  20  ~/pod.yaml
+|4,39,30,20,1667128090,"~/pod.yaml"
+-'  1  0  ~/pod.yam
+|4,39,1,0,1667128055,"~/pod.yam"
+-'  1  0  ~/pod.yam
+|4,39,1,0,1667128055,"~/pod.yam"
+-'  1  0  ~/pod.yam
+|4,39,1,0,1667128055,"~/pod.yam"
+-'  1  0  ~/pod.yam
+|4,39,1,0,1667128055,"~/pod.yam"
 -'  1  0  ~/pod.yam
 |4,39,1,0,1667128055,"~/pod.yam"
 -'  1  0  ~/pod.yam
@@ -69,6 +89,16 @@
 |4,39,30,26,1667126785,"~/pod.yaml"
 -'  30  26  ~/pod.yaml
 |4,39,30,26,1667126785,"~/pod.yaml"
+-'  30  26  ~/pod.yaml
+|4,39,30,26,1667126785,"~/pod.yaml"
+-'  30  26  ~/pod.yaml
+|4,39,30,26,1667126785,"~/pod.yaml"
+-'  31  32  ~/pod.yaml
+|4,39,31,32,1667126745,"~/pod.yaml"
+-'  31  32  ~/pod.yaml
+|4,39,31,32,1667126745,"~/pod.yaml"
+-'  31  32  ~/pod.yaml
+|4,39,31,32,1667126745,"~/pod.yaml"
 -'  31  32  ~/pod.yaml
 |4,39,31,32,1667126745,"~/pod.yaml"
 -'  31  32  ~/pod.yaml
@@ -107,6 +137,70 @@
 |4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
 -'  19  11  /tmp/kops-edit-766594641yaml
 |4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  19  11  /tmp/kops-edit-766594641yaml
+|4,39,19,11,1667125521,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
+-'  1  0  /tmp/kops-edit-766594641yaml
+|4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
 -'  1  0  /tmp/kops-edit-766594641yaml
 |4,39,1,0,1667125494,"/tmp/kops-edit-766594641yaml"
 -'  1  0  /tmp/kops-edit-766594641yaml
@@ -155,102 +249,16 @@
 |4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
 -'  35  0  /tmp/kops-edit-3501639348yaml
 |4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  35  0  /tmp/kops-edit-3501639348yaml
-|4,39,35,0,1667125470,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
--'  1  0  /tmp/kops-edit-3501639348yaml
-|4,39,1,0,1667125443,"/tmp/kops-edit-3501639348yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/form.html
+	*	1667129691	0
+	"	9	13
+	^	9	14
+	.	9	13
+	+	12	6
+	+	9	13
 
 > ~/pod.yaml
 	*	1667128662	0
@@ -290,13 +298,6 @@
 	^	10	80
 	.	10	79
 	+	10	79
-
-> ~/form.html
-	*	1667111977	0
-	"	12	6
-	^	12	7
-	.	12	6
-	+	12	6
 
 > ~/Dockerfile
 	*	1667111797	0

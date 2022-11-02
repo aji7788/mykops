@@ -66,6 +66,6 @@ urllib3==1.26.4
 uvicorn==0.13.4
 watchgod==0.7
 wcmatch==8.1.2
-websockets==8.1
+
 
 
